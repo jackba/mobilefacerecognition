@@ -1,0 +1,1 @@
+face recognition on  android platform, for quick computing.
